@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(69, 65, 65);
+}
+
+.main {
+    margin-top: 150px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: azure;
+    text-align: center;
+}
+
+.bn {
+    background-color: aliceblue;
+    border: none;
+    outline: none;
+    padding: 3px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bn:hover {
+    background-color: rgb(245, 241, 129);
+    outline: 1px solid black;
+    transition: 0.2s ease-in-out;
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
