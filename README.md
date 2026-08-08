@@ -40,23 +40,7 @@ Each folder represents a small learning milestone:
 - React Router DOM
 - ESLint
 
-## 🚀 How to run any project
 
-Each project is a standalone Vite app. To run one locally:
-
-```bash
-cd <project-folder>
-npm install
-npm run dev
-```
-
-Example:
-
-```bash
-cd 05passwordGenerator
-npm install
-npm run dev
-```
 
 ## 📚 Learning path
 
