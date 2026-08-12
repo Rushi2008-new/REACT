@@ -16,6 +16,7 @@ These projects were built to explore and practice:
 - Local storage for persistent data
 - Tailwind CSS for modern UI styling
 - Vite as a fast development environment
+- Redux Toolkit - RTK
 
 ## 🧠 Project overview
 
@@ -30,6 +31,7 @@ Each folder represents a small learning milestone:
 - 10todocontextLocal — a todo app with context management and local storage
 - Fundamentals — core React basics and practice exercises
 - customReact — a hands-on attempt to understand React internals more deeply
+- reduxToolkitTodo - Created a todo-features using RTK
 
 ## 🛠️ Tech stack
 
